@@ -1,0 +1,17 @@
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\MINIPROJECT2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\MINIPROJECT2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\bin\Debug\MINIPROJECT2.exe
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\bin\Debug\MINIPROJECT2.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\MINIPROJECT2.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form10.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form2.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form7.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form3.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form4.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form5.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form6.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form1.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\Seminar_App_Final_.Form9.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\MINIPROJECT2.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\MINIPROJECT2.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2010\Projects\MINIPROJECT2\MINIPROJECT2\obj\x86\Debug\MINIPROJECT2.Form8.resources
